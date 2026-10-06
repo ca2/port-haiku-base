@@ -1,0 +1,12 @@
+[submodule "id3lib"]
+	path = id3lib
+	url = ../../cpp-port/id3lib
+	branch = main
+[submodule "stb"]
+	path = stb
+	url = ../../cpp-port/stb
+	branch = main
+[submodule "unac"]
+	path = unac
+	url = ../../cpp-port/unac
+	branch = main
